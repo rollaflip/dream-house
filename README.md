@@ -123,7 +123,6 @@ The [VisualSearchBox](force-app/main/default/aura/VisualSearchBox) component lev
 1. In the DreamHouse app, click the **Einstein Vision** tab.
 
 1. Click the **Create Dataset** button.
-;
 1. In the **houses** tile, click the **Train** button, the click the **Models** tab.
 
 1. Click the **Refresh Models** button until the Progress column indicates **100%**.
